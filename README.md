@@ -3,6 +3,10 @@
 ## 📝 Overview
 This is a small **Vanilla JavaScript** To‑Do List web app. It lets users add tasks, mark them as completed, and delete them. It is designed to be simple and easy to extend.
 
+## 🖼️ App Image
+
+![To-Do App Screenshot](assets/images/app-image.png)
+
 ## 🧩 Project Structure
 - `index.html` — The main HTML page that contains the UI.
 - `stylesheet.css` — Basic styling for the app (layout, button styles, completed task styles).
