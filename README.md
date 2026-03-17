@@ -3,6 +3,9 @@
 ## 📝 Overview
 This is a small **Vanilla JavaScript** To‑Do List web app. It lets users add tasks, mark them as completed, and delete them. It is designed to be simple and easy to extend.
 
+## 🌐 Live Demo
+👉 [Click here to view the live project](https://garychamp.github.io/to-do-app/)
+
 ## 🖼️ App Image
 
 ![To-Do App Screenshot](assets/images/app-image.png)
